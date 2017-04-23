@@ -1,0 +1,30 @@
+.cardLocations {
+    height: 15em;
+    width: 10%;
+    border: 3px solid black;
+    display: inline-block;
+    margin: 3vh 1%;
+}
+
+.homeCards {
+    float: left;
+    border-color: red;
+}
+
+.stockCards {
+    float: right;
+    border-color: green;
+    margin-right: 3%;
+}
+
+.playCards {
+    width: 100%;
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+}
+
+p {
+    margin-top: 70%;
+    text-align: center;
+}
